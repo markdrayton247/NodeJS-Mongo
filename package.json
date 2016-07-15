@@ -1,0 +1,12 @@
+{
+  "name": "mongo-server",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@risingstack/trace": "^2.13.3",
+    "body-parser": "^1.15.1",
+    "express": "*",
+    "jade": "*",
+    "mongodb": "*"
+  }
+}
